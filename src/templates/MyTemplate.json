@@ -1,0 +1,8 @@
+{
+    "Template": {
+    "TemplateName": "MyTemplate",
+    "SubjectPart": "FATURA FATURA FATURA, {{name}}!",
+    "HtmlPart": "<h1>TESTE {{name}},</h1><p>TESTESTESTESTESTE.</p>",
+    "TextPart": "Dear {{name}},\r\nSegue a fatura em anexo."
+  }
+}

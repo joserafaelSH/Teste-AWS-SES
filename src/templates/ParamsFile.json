@@ -1,0 +1,15 @@
+{
+    "file":{
+      "fileKey":"../../TCC.pdf"
+    },
+    "attachmentName":"TCC.pdf",
+    "fromEmailId":"dadoschatos@gmail.com",
+    "toEmailId":"dadoschatos@gmail.com",
+    "templateName":"MyTemplate",
+    "templateInput":{
+      "argument1":"Replace",
+      "argument2":"placeholders in template",
+      "argument3":"with",
+      "argument4":"these supplied arguments"
+    }
+    }
